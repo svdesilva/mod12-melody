@@ -1,0 +1,21 @@
+{
+  "name": "mod12-melody",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Pitch-class set toys: interval vectors, mod-12 inversions, classical harmony hooks.",
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "lint": "tsc -p tsconfig.json --noEmit",
+    "start": "tsx src/main.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
