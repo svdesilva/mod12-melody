@@ -1,6 +1,6 @@
 # Mod‑12 melody
 
-Pitch-class arithmetic is the **same** object whether you are:
+Pitch-class arithmetic is the **same** object whether the task is:
 
 - spelling a **Beethoven cadence**,
 - counting semitones in a **Chopin chromatic voice**,
